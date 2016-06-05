@@ -1,0 +1,1 @@
+$ docker run -d -p 1200:80 -p 8245:443 owncloud

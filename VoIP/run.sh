@@ -1,0 +1,1 @@
+docker run --net=host -d -t jmar71n/freepbx
